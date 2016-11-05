@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial;
+}
+#sendform{
+    margin: 0 auto;
+    width: 405px;
+    height: 210px;
+    margin-top: 200px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    box-shadow: 0 0 50px rgba(0,0,0,0.2);
+}
+input[type="text"] {
+	width: 365px;
+}
+input[type="submit"] {
+	width: 119px;
+	height: 20px;
+	background-color: black;
+	color: white;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+}
+p {
+	padding: 10px;
+}
