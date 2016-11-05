@@ -1,0 +1,11 @@
+1)input[type="checkbox"]
+2)input[type="checkbox"(not checked)]
+3)#message
+4)-
+5)a[href$=".zip"]
+6)p[data-action~=delete]
+7)p[data-action~=:not delete]
+8)#messages:nth-child(odd)
+9)-
+10)-
+11)#messages >li:last-of-type > a 
